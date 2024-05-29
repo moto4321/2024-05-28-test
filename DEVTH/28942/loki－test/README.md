@@ -1,6 +1,6 @@
 # loki-test - 28942 
 
-[문제 링크](https:///exam/8452/loki-test/quiz/1) 
+[문제 링크](https://loki-level.dev.goorm.io/exam/8452/loki-test/quiz/1) 
 
 ### 성능 요약
 
@@ -8,5 +8,5 @@
 
 ### 제출 일자
 
-2024년 05월 29일 02:12:45
+2024년 05월 29일 02:14:06
 
